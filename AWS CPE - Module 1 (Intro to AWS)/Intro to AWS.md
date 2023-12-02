@@ -36,4 +36,5 @@
 
 ----
 
-[[Amazon EC2|Continue to Module 2]]
+[[Amazon EC2|Next -> Module 2]]
+
