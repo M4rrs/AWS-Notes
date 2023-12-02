@@ -91,3 +91,6 @@
 - Configuration of managed services or third-party software.
 
 ![[Screenshot_2023-12-02_at_12.30.43.png]]
+
+-----
+[[AWS CPE - Module 1 (Intro to AWS)|Continue to Module 1]]

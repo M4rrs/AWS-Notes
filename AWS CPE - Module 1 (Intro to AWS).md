@@ -34,3 +34,6 @@
 	- Government regulations require your business to keep records on premises.
 
 
+----
+
+[[Amazon EC2|Continue to Module 2]]

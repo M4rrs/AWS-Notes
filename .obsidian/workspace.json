@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "eac90387fc8df37e",
+        "id": "d00b40c78cca287b",
         "type": "tabs",
         "children": [
           {
-            "id": "5e6588fc7e92c3e7",
+            "id": "144ad2e0312822e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS CPE - Module 2 (Computing in the Cloud).md",
+                "file": "AWS CPE - Module 2 (Compute in the Cloud)/Amazon EC2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0016fe8ca5d8c8c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS CPE - Module 2 (Compute in the Cloud)/Amazon EC2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS CPE - Module 2 (Computing in the Cloud).md",
+                "file": "AWS CPE - Module 2 (Compute in the Cloud)/Amazon EC2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS CPE - Module 2 (Computing in the Cloud).md",
+                "file": "AWS CPE - Module 2 (Compute in the Cloud)/Amazon EC2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS CPE - Module 2 (Computing in the Cloud).md"
+                "file": "AWS CPE - Module 2 (Compute in the Cloud)/Amazon EC2.md"
               }
             }
           }
@@ -146,13 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6c70f1d02d36fa5",
+  "active": "0016fe8ca5d8c8c1",
   "lastOpenFiles": [
+    "Getting Started with AWS.md",
+    "AWS CPE - Module 1 (Intro to AWS).md",
+    "AWS CPE - Module 2 (Compute in the Cloud)/Elastic Load Balancing.md",
+    "AWS CPE - Module 2 (Compute in the Cloud)",
+    "AWS CPE - Module 2 (Compute in the Cloud)/Amazon EC2.md",
+    "images/Screenshot_2023-12-02_at_18.06.34.png",
+    "Dedicated Host.md",
     "AWS-CPE/README.md",
     "AWS-CPE",
-    "Getting Started with AWS.md",
-    "AWS CPE - Module 2 (Computing in the Cloud).md",
-    "AWS CPE - Module 1 (Intro to AWS).md",
     "images/Screenshot_2023-12-01_at_14.55.32.png",
     "images/Screenshot_2023-12-02_at_12.30.43.png",
     "images/Screenshot_2023-12-01_at_14.56.06.png",
