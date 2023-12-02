@@ -118,4 +118,4 @@
 
 --------
 
-[[Elastic Load Balancing|Next -> Elastic Load Balancing]]
+[[ELB, SNS, SQS|Next -> ELB, SNS, SQS]]

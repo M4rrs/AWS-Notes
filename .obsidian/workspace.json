@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f9c0c01a7970d347",
+        "id": "e68d706e725ad976",
         "type": "tabs",
         "children": [
           {
-            "id": "7f8fb92b4673c19d",
+            "id": "60ca93df60077d91",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AWS CPE - Module 2 (Compute in the Cloud)/ELB, SNS, SQS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AWS CPE - Module 2 (Compute in the Cloud)/ELB, SNS, SQS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AWS CPE - Module 2 (Compute in the Cloud)/ELB, SNS, SQS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AWS CPE - Module 2 (Compute in the Cloud)/ELB, SNS, SQS.md"
+              }
             }
           }
         ]
@@ -138,14 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f8fb92b4673c19d",
+  "active": "60ca93df60077d91",
   "lastOpenFiles": [
-    "AWS CPE - Module 1 (Intro to AWS)/Intro to AWS.md",
     "AWS CPE - Module 2 (Compute in the Cloud)/Amazon EC2.md",
+    "AWS CPE - Module 1 (Intro to AWS)/Intro to AWS.md",
+    "Getting Started with AWS.md",
+    "AWS CPE - Module 2 (Compute in the Cloud)/ELB, SNS, SQS.md",
+    "Untitled.md",
     "images/Screenshot_2023-12-02_at_18.34.09.png",
     "AWS CPE - Module 1 (Intro to AWS)",
-    "Getting Started with AWS.md",
-    "AWS CPE - Module 2 (Compute in the Cloud)/Elastic Load Balancing.md",
     "AWS CPE - Module 2 (Compute in the Cloud)",
     "images/Screenshot_2023-12-02_at_18.06.34.png",
     "Dedicated Host.md",
