@@ -4,6 +4,9 @@
 - [[#Monolithic Applications & Microservices]]
 - **Additional Compute Services**:
 	- [[#AWS Lambda]]
+	- [[#Containerized Applications]]
+
+--------------
 ## Elastic Load Balancing (ELB)
 - Service that automatically distributes incoming application traffic across multiple resources (e.g. EC2 instances)
 - All traffic (requests) are routed to the **load balancer** before being distributed to across the multiple instances.
@@ -59,3 +62,7 @@
 ##### ==AWS Fargate
 - Serverless compute engine for containers.
 - Works with both **ECS** & **EKS**
+
+-----------
+
+[[Global Infrastructure & Reliability|Next -> Global Infrastructure & Reliability]]

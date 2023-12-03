@@ -1,5 +1,15 @@
 
 #AWS-piscine 
+
+- [[#What is Cloud Computing?]]
+- [[#Advantages of Cloud Computing]]
+- [[#Cloud Computing Service Models]]
+- [[#AWS Global Infrastructure]]
+- [[#Developer Tools]]
+- [[#Infrastructure as Code (IaC)]]
+- [[#AWS Shared Responsibility Model]]
+
+--------
 ## What is Cloud Computing?
 
 - On-demand delivery of compute power, storage, database, applications, and other IT resources through a cloud services platform (CSP).
@@ -46,7 +56,10 @@
 - AWS cloud infrastructure is built around AWS Regions and Availability Zones.
 - **Regions:** Physical location with multiple availability zones.
 - **Availability Zones:** One or more discreet data centers, with redundant power, networking & connectivity and housed in separate facilities.
-- ^ offers the ability to operate applications and databases that are more highly available, fault tolerant, & scalable.
+- ^ offers the ability to operate applications and databases that are more highly available, fault tolerant, & scalable
+
+[[Global Infrastructure & Reliability|Expanded in Module 3]]
+
 ----
 ## Developer Tools
 - When infrastructure becomes virtual, instead of physically managing it, you logically manage it.

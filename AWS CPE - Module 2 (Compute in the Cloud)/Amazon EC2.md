@@ -5,6 +5,8 @@
 - [[#EC2 Tenancy]]
 - [[#EC2 Pricing]]
 - [[#EC2 Auto Scaling]]
+
+-----------
 ## Amazon Elastic Compute Cloud (EC2)
 
 - **EC2** = AWS compute service that allows you to launch VMs, called instances.
