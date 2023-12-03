@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS CPE - Module 3 (Global Infrastructure & Reliability)/Provision AWS Resources.md",
+                "file": "AWS CPE - Module 3 (Global Infrastructure & Reliability)/Global Infrastructure & Reliability.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS CPE - Module 3 (Global Infrastructure & Reliability)/Provision AWS Resources.md",
+                "file": "AWS CPE - Module 3 (Global Infrastructure & Reliability)/Global Infrastructure & Reliability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS CPE - Module 3 (Global Infrastructure & Reliability)/Provision AWS Resources.md",
+                "file": "AWS CPE - Module 3 (Global Infrastructure & Reliability)/Global Infrastructure & Reliability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS CPE - Module 3 (Global Infrastructure & Reliability)/Provision AWS Resources.md"
+                "file": "AWS CPE - Module 3 (Global Infrastructure & Reliability)/Global Infrastructure & Reliability.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6c70f1d02d36fa5",
+  "active": "cfd5ec83e31ec1c6",
   "lastOpenFiles": [
-    "AWS CPE - Module 4 (Networking)",
-    "AWS CPE - Module 3 (Global Infrastructure & Reliability)/Global Infrastructure & Reliability.md",
     "AWS CPE - Module 3 (Global Infrastructure & Reliability)/Provision AWS Resources.md",
+    "AWS CPE - Module 3 (Global Infrastructure & Reliability)/Global Infrastructure & Reliability.md",
+    "AWS CPE - Module 4 (Networking)",
     "AWS CPE - Module 2 (Compute in the Cloud)/ELB, SNS, SQS.md",
     "AWS CPE - Module 2 (Compute in the Cloud)/Amazon EC2.md",
     "Getting Started with AWS.md",
