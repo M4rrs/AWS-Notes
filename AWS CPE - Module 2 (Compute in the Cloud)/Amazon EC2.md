@@ -116,6 +116,7 @@
 - Adds instances based on demand, decommissions instances when unneeded.
 
 - Can set **minimum, desired,** and **maximum** capacity for your Auto Scaling group.
+
 ![[Screenshot_2023-12-02_at_18.34.09.png]]
 
 --------
