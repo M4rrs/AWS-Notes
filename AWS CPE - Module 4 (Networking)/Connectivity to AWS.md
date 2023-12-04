@@ -1,8 +1,9 @@
-#AWS-piscine #AWS-Cloud-Practitioner-Essentials 
+  #AWS-piscine #AWS-Cloud-Practitioner-Essentials 
 
 - [[#Amazon Virtual Private Cloud (VPC)]]
 - [[#Internet Gateway]]
 - [[#Virtual Private Gateway]]
+- [[#AWS Direct Connect]]
 
 --------
 ## Amazon Virtual Private Cloud (VPC)
@@ -26,3 +27,12 @@
 
 -----
 ## AWS Direct Connect
+- Establish a dedicated private connection between your data center and VPC
+- Reduces network costs.
+- Increases bandwidth.
+
+![[Screenshot_2023-12-04_at_16.18.21.png]]
+
+---------
+
+ [[Subnets & Network Access Controls|Next -> Subnet & Network Access Control]]
