@@ -5,6 +5,7 @@
 - [[#Amazon Relational Database Service (RDS)]]
 - [[#==Amazon Aurora|Amazon Aurora]]
 - [[#Amazon DynamoDB]]
+- [[#Amazon Redshift]]
 
 ---------
 ## File Storage
@@ -28,7 +29,6 @@
 ## Relational Databases
 - Data is stored such that it relates to other pieces of data.
 - Uses **Structured Query Language (SQL)**.
-
 ## Amazon Relational Database Service (RDS)
 - Automates tasks e.g. :
 	- Hardware provisioning.
@@ -55,3 +55,27 @@
 
 ----
 ## Non-relational Databases
+- A.k.a. NoSQL Databases.
+- Example of a non-relational DB: Key-value pairs.
+	- Data is organized into items (key) and each item has attributes (value).
+## Amazon DynamoDB
+- Key-value database service.
+- Delivers single-digit millisecond performance.
+- **Features:**
+	- Serverless
+	- Automatic scaling
+
+----
+
+- **RDS:** Better for complex relational joins. E.g. Business analytics.
+- **DynamoDB:** Simple and powerful database. E.g. Simple look-up tables.
+
+----
+## Amazon Redshift
+- **Data Warehouse:** Larger relational database. Used for extremely complex and large queries.
+- **Amazon Redshift:** Data warehousing service.
+
+-------
+
+[[Amazon DMS & Additional DB Services|Next -> Amazon DMS & Additional DB Services]]
+

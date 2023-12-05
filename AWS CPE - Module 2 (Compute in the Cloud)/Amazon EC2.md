@@ -1,4 +1,4 @@
-#AWS-piscine #AWS-Cloud-Practitioner-Essentials 
+#AWS-piscine #AWS-Cloud-Practitioner-Essentials #Module-2
 
 - [[#Amazon Elastic Compute Cloud (EC2)]]
 - [[#EC2 Instance Types]]

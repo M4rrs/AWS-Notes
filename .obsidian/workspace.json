@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fee5fa337d567979",
+        "id": "1db0496ed0e16d8f",
         "type": "tabs",
         "children": [
           {
-            "id": "ecc06d4cf792b389",
+            "id": "662502a23bc24472",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS CPE - Module 5 (Storage & Databases)/EFS, RDS.md",
+                "file": "AWS CPE - Module 5 (Storage & Databases)/Amazon DMS & Additional DB Services.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS CPE - Module 5 (Storage & Databases)/EFS, RDS.md",
+                "file": "AWS CPE - Module 5 (Storage & Databases)/Amazon DMS & Additional DB Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS CPE - Module 5 (Storage & Databases)/EFS, RDS.md",
+                "file": "AWS CPE - Module 5 (Storage & Databases)/Amazon DMS & Additional DB Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS CPE - Module 5 (Storage & Databases)/EFS, RDS.md"
+                "file": "AWS CPE - Module 5 (Storage & Databases)/Amazon DMS & Additional DB Services.md"
               }
             }
           }
@@ -146,11 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ecc06d4cf792b389",
+  "active": "662502a23bc24472",
   "lastOpenFiles": [
+    "AWS CPE - Module 5 (Storage & Databases)/EFS, RDS, DynamoDB, Redshift.md",
+    "AWS CPE - Module 5 (Storage & Databases)/Amazon DMS & Additional DB Services.md",
     "AWS CPE - Module 5 (Storage & Databases)/Amazon Storage Services (EBS & S3).md",
-    "AWS CPE - Module 5 (Storage & Databases)/EFS, RDS.md",
-    "Untitled.md",
+    "AWS CPE - Module 2 (Compute in the Cloud)/Amazon EC2.md",
+    "AWS CPE - Module 2 (Compute in the Cloud)/ELB, SNS, SQS.md",
+    "AWS CPE - Module 5 (Storage & Databases)/Untitled.md",
     "AWS CPE - Module 4 (Networking)/Subnets & Network Access Controls.md",
     "images/Screenshot_2023-12-05_at_13.47.57.png",
     "AWS CPE - Module 4 (Networking)/Global Networking.md",
@@ -159,14 +162,12 @@
     "AWS CPE - Module 3 (Global Infrastructure & Reliability)/Global Infrastructure & Reliability.md",
     "images/Screenshot_2023-12-04_at_17.15.59.png",
     "AWS CPE - Module 1 (Intro to AWS)/Intro to AWS.md",
-    "AWS CPE - Module 2 (Compute in the Cloud)/Amazon EC2.md",
     "images/Screenshot_2023-12-04_at_16.58.36.png",
     "Untitled.canvas",
     "AWS CPE - Module 4 (Networking)/Connectivity to AWS.md",
     "images/Screenshot_2023-12-04_at_16.18.21.png",
     "images/Screenshot_2023-12-03_at_18.27.45.png",
     "images/Screenshot_2023-12-03_at_18.21.08.png",
-    "AWS CPE - Module 2 (Compute in the Cloud)/ELB, SNS, SQS.md",
     "images/Screenshot_2023-12-03_at_14.38.59.png",
     "Pasted image 20231203143958.png",
     "AWS CPE - Module 3 (Global Infrastructure & Reliability)/Provision AWS Resources.md",
