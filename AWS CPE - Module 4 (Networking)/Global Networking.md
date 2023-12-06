@@ -21,7 +21,7 @@
 	- Manages DNS records for domain names.
 	- Can register new domains names.
 	- Transfer records for existing domain names.
-- Works together with [[Global Infrastructure & Reliability#Edge Locations|Amazon CloudFront]].
+- Works together with [[Module 3 (Global Infrastructure & Reliability)#Edge Locations|Amazon CloudFront]].
 ##### ==e.g. Amazon Route 53 and Amazon CloudFront
 
 ![[Screenshot_2023-12-04_at_17.23.18.png]]

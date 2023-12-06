@@ -1,4 +1,4 @@
-#AWS-piscine #AWS-Cloud-Practitioner-Essentials #Module-2
+#AWS-piscine #AWS-Cloud-Practitioner-Essentials
 
 - [[#Amazon Elastic Compute Cloud (EC2)]]
 - [[#EC2 Instance Types]]
@@ -120,5 +120,3 @@
 ![[Screenshot_2023-12-02_at_18.34.09.png]]
 
 --------
-
-[[ELB, SNS, SQS|Next -> ELB, SNS, SQS]]

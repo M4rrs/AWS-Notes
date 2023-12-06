@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1db0496ed0e16d8f",
+        "id": "cb4a79fc3789ad1f",
         "type": "tabs",
         "children": [
           {
-            "id": "662502a23bc24472",
+            "id": "743bd929fc8fccc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS CPE - Module 5 (Storage & Databases)/Amazon DMS & Additional DB Services.md",
+                "file": "AWS CPE - Module 6 (Security)/Shared Responsibility Model & User Permissions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS CPE - Module 5 (Storage & Databases)/Amazon DMS & Additional DB Services.md",
+                "file": "AWS CPE - Module 6 (Security)/Shared Responsibility Model & User Permissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS CPE - Module 5 (Storage & Databases)/Amazon DMS & Additional DB Services.md",
+                "file": "AWS CPE - Module 6 (Security)/Shared Responsibility Model & User Permissions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS CPE - Module 5 (Storage & Databases)/Amazon DMS & Additional DB Services.md"
+                "file": "AWS CPE - Module 6 (Security)/Shared Responsibility Model & User Permissions.md"
               }
             }
           }
@@ -146,25 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "662502a23bc24472",
+  "active": "743bd929fc8fccc0",
   "lastOpenFiles": [
+    "AWS CPE - Module 6 (Security)/Module 6 (Security).md",
+    "AWS CPE - Module 6 (Security)/Shared Responsibility Model & User Permissions.md",
+    "Getting Started with AWS.md",
+    "AWS CPE - Module 4 (Networking)/Module 4 (Networking).md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "AWS CPE - MODULES.md",
     "AWS CPE - Module 5 (Storage & Databases)/EFS, RDS, DynamoDB, Redshift.md",
-    "AWS CPE - Module 5 (Storage & Databases)/Amazon DMS & Additional DB Services.md",
-    "AWS CPE - Module 5 (Storage & Databases)/Amazon Storage Services (EBS & S3).md",
-    "AWS CPE - Module 2 (Compute in the Cloud)/Amazon EC2.md",
     "AWS CPE - Module 2 (Compute in the Cloud)/ELB, SNS, SQS.md",
-    "AWS CPE - Module 5 (Storage & Databases)/Untitled.md",
-    "AWS CPE - Module 4 (Networking)/Subnets & Network Access Controls.md",
-    "images/Screenshot_2023-12-05_at_13.47.57.png",
+    "AWS CPE - Module 6 (Security)",
+    "AWS CPE - Module 2 (Compute in the Cloud)/Amazon EC2.md",
+    "AWS CPE - Module 1 (Intro to AWS)/Module 1 (Intro to AWS).md",
+    "AWS CPE - Module 3 (Global Infrastructure & Reliability)/Module 3 (Global Infrastructure & Reliability).md",
     "AWS CPE - Module 4 (Networking)/Global Networking.md",
+    "AWS CPE - Module 2 (Compute in the Cloud)/Module 2 (Compute in the Cloud).md",
+    "AWS CPE - Module 5 (Storage & Databases)/Module 5 (Storage & Databases).md",
+    "AWS CPE - Module 5 (Storage & Databases)/Amazon Storage Services (EBS & S3).md",
+    "AWS CPE - Module 5 (Storage & Databases)/Amazon DMS & Additional DB Services.md",
+    "AWS CPE - Module 4 (Networking)/Subnets & Network Access Controls.md",
+    "AWS CPE - Module 4 (Networking)/Connectivity to AWS.md",
+    "images/Screenshot_2023-12-05_at_13.47.57.png",
     "AWS CPE - Module 5 (Storage & Databases)",
     "images/Screenshot_2023-12-04_at_17.23.18.png",
-    "AWS CPE - Module 3 (Global Infrastructure & Reliability)/Global Infrastructure & Reliability.md",
     "images/Screenshot_2023-12-04_at_17.15.59.png",
-    "AWS CPE - Module 1 (Intro to AWS)/Intro to AWS.md",
     "images/Screenshot_2023-12-04_at_16.58.36.png",
     "Untitled.canvas",
-    "AWS CPE - Module 4 (Networking)/Connectivity to AWS.md",
     "images/Screenshot_2023-12-04_at_16.18.21.png",
     "images/Screenshot_2023-12-03_at_18.27.45.png",
     "images/Screenshot_2023-12-03_at_18.21.08.png",
@@ -172,7 +181,6 @@
     "Pasted image 20231203143958.png",
     "AWS CPE - Module 3 (Global Infrastructure & Reliability)/Provision AWS Resources.md",
     "AWS CPE - Module 4 (Networking)",
-    "Getting Started with AWS.md",
     "images/Screenshot_2023-12-03_at_14.25.29.png",
     "AWS CPE - Module 3 (Global Infrastructure & Reliability)",
     "AWS CPE - Module 1 (Intro to AWS)",

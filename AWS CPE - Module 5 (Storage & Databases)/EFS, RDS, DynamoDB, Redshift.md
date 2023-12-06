@@ -76,6 +76,3 @@
 - **Amazon Redshift:** Data warehousing service.
 
 -------
-
-[[Amazon DMS & Additional DB Services|Next -> Amazon DMS & Additional DB Services]]
-

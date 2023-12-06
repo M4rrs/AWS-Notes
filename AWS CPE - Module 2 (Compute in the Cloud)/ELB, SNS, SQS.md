@@ -1,4 +1,4 @@
-#AWS-piscine #AWS-Cloud-Practitioner-Essentials #Module-2 
+#AWS-piscine #AWS-Cloud-Practitioner-Essentials
 
 - [[#Elastic Load Balancing (ELB)]]
 - [[#Monolithic Applications & Microservices]]
@@ -64,5 +64,3 @@
 - Works with both **ECS** & **EKS**
 
 -----------
-
-[[Global Infrastructure & Reliability|Next -> Global Infrastructure & Reliability]]

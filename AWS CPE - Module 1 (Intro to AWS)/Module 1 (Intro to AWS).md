@@ -35,6 +35,3 @@
 
 
 ----
-
-[[Amazon EC2|Next -> Module 2]]
-

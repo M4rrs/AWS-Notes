@@ -100,5 +100,3 @@
 - **EBS:** Better for complex read/write/change functions.
 
 ------------
-[[EFS, RDS, DynamoDB, Redshift|Next -> EFS, RDS, DynamoDB]]
-

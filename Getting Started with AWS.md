@@ -58,7 +58,7 @@
 - **Availability Zones:** One or more discreet data centers, with redundant power, networking & connectivity and housed in separate facilities.
 - ^ offers the ability to operate applications and databases that are more highly available, fault tolerant, & scalable
 
-[[Global Infrastructure & Reliability|Expanded in Module 3]]
+[[Module 3 (Global Infrastructure & Reliability)|Expanded in Module 3]]
 
 ----
 ## Developer Tools
@@ -95,6 +95,8 @@
 ![[Screenshot_2023-12-01_at_14.56.06.png]]
 ---------------------
 ## AWS Shared Responsibility Model
+
+[[Shared Responsibility Model & User Permissions|Expanded in Module 6]]
 ###### AWS
 - Hardware/Global infrastructure
 - Software for computing, storage, database, networking services.
@@ -106,4 +108,3 @@
 ![[Screenshot_2023-12-02_at_12.30.43.png]]
 
 -----
-[[Intro to AWS|Continue to Module 1]]

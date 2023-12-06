@@ -54,5 +54,3 @@
 | Remember nothing and check packet permissions that cross subnets each way. | Remembers previous packet permissions for incoming packets.|
 
 ----
-[[Amazon Storage Services (EBS & S3)|Next -> Module 5: Amazon Storage Services (EBS & S3)]]
-

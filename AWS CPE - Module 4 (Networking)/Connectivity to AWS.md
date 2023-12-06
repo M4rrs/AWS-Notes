@@ -34,5 +34,3 @@
 ![[Screenshot_2023-12-04_at_16.18.21.png]]
 
 ---------
-
- [[Subnets & Network Access Controls|Next -> Subnet & Network Access Control]]
