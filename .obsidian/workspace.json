@@ -11,8 +11,12 @@
             "id": "f287a00f0e46ace5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AWS CPE - Module 7 (Monitoring & Analytics)/Module 7 - (Monitoring & Analytics).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AWS CPE - Module 7 (Monitoring & Analytics)/Module 7 - (Monitoring & Analytics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AWS CPE - Module 7 (Monitoring & Analytics)/Module 7 - (Monitoring & Analytics).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AWS CPE - Module 7 (Monitoring & Analytics)/Module 7 - (Monitoring & Analytics).md"
+              }
             }
           }
         ]
@@ -140,9 +148,15 @@
   },
   "active": "e6c70f1d02d36fa5",
   "lastOpenFiles": [
-    "AWS CPE - Module 7 (Monitoring & Analysis)",
-    "AWS CPE - Module 5 (Storage & Databases)/Module 5 (Storage & Databases).md",
+    "images/Screenshot_2023-12-06_at_19.16.30.png",
+    "AWS CPE - MODULES.md",
+    "AWS CPE - Module 7 (Monitoring & Analytics)/Module 7 - (Monitoring & Analytics).md",
+    "AWS CPE - Module 3 (Global Infrastructure & Reliability)/Module 3 (Global Infrastructure & Reliability).md",
+    "AWS CPE - Module 7 (Monitoring & Analysis)/Module 7 (Monitoring & Analysis).md",
+    "AWS CPE - Module 4 (Networking)/Module 4 (Networking).md",
     "AWS CPE - Module 6 (Security)/Module 6 (Security).md",
+    "AWS CPE - Module 7 (Monitoring & Analytics)",
+    "AWS CPE - Module 5 (Storage & Databases)/Module 5 (Storage & Databases).md",
     "AWS CPE - Module 6 (Security)/DoS Attacks & Additional Security Services.md",
     "AWS CPE - Module 6 (Security)/AWS Organizations & Compliance.md",
     "Untitled.md",
@@ -151,16 +165,13 @@
     "AWS CPE - Module 6 (Security)/Shared Responsibility Model & User Permissions.md",
     "images/Screenshot_2023-12-06_at_15.12.09.png",
     "AWS CPE - Module 4 (Networking)/Subnets & Network Access Controls.md",
-    "AWS CPE - Module 4 (Networking)/Module 4 (Networking).md",
     "AWS CPE - Module 4 (Networking)/Global Networking.md",
     "AWS CPE - Module 4 (Networking)/Connectivity to AWS.md",
     "AWS CPE - Module 2 (Compute in the Cloud)/ELB, SNS, SQS.md",
     "Untitled 1.md",
-    "AWS CPE - MODULES.md",
     "AWS CPE - Module 6 (Security)",
     "AWS CPE - Module 2 (Compute in the Cloud)/Amazon EC2.md",
     "AWS CPE - Module 1 (Intro to AWS)/Module 1 (Intro to AWS).md",
-    "AWS CPE - Module 3 (Global Infrastructure & Reliability)/Module 3 (Global Infrastructure & Reliability).md",
     "AWS CPE - Module 2 (Compute in the Cloud)/Module 2 (Compute in the Cloud).md",
     "AWS CPE - Module 5 (Storage & Databases)/Amazon Storage Services (EBS & S3).md",
     "AWS CPE - Module 5 (Storage & Databases)/Amazon DMS & Additional DB Services.md",
@@ -181,9 +192,7 @@
     "AWS CPE - Module 1 (Intro to AWS)",
     "AWS CPE - Module 2 (Compute in the Cloud)",
     "Dedicated Host.md",
-    "AWS-CPE/README.md",
     "AWS-CPE",
-    "images",
-    "Pasted image 20231201150525.png.md"
+    "images"
   ]
 }

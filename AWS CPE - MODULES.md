@@ -10,3 +10,6 @@
 [[Module 5 (Storage & Databases)]]
 ## Module 6
 [[Module 6 (Security)]]
+## Module 7
+[[Module 7 - (Monitoring & Analytics)]]
+
