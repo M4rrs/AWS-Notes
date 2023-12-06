@@ -30,3 +30,32 @@
 
 -------
 ## AWS Identity and Access Management (IAM)
+- Manage access to AWS services and resources.
+- Flexibility to configure access based on company operational and security needs.
+- Features:
+	- IAM users, groups, roles
+	- IAM policies
+	- Multi-factor authentication
+## AWS Account Root User
+- Access to all services and resources.
+## IAM Users
+- New user in AWS.
+- By default has **no permissions.**
+## IAM Policies
+- Document that allows or denies permissions to AWS services and resources.
+- Customize users' level of access to resources.
+- *Best practice*:
+	1) Principle of **least privilege** when granting permissions.
+	2) Only give permission to what the user needs.
+## IAM Groups
+- Collection of IAM users. Pretty straightforward.
+## IAM Roles
+- Identity to gain **temporary** access to permissions.
+- When assuming and IAM role:
+	1) User must be granted permission for the role.
+	2) Abandons all previous permissions under previous role.
+	3) Takes up new permissions.
+## Multi-factor Authentication (MFA)
+- Extra layer of security for AWS account.
+
+---------
