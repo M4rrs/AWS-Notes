@@ -12,4 +12,7 @@
 [[Module 6 (Security)]]
 ## Module 7
 [[Module 7 - (Monitoring & Analytics)]]
-
+## Module 8
+[[Module 8 (Pricing & Support)]]
+## Module 9
+[[Module 9 (Migration & Innovation)]]

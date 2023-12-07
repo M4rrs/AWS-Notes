@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4a005f6b48657fc1",
+        "id": "12db1fe89b3887c7",
         "type": "tabs",
         "children": [
           {
-            "id": "574bbadc795e9267",
+            "id": "7703226d7b4d10d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS CPE - Module 8 (Pricing & Support)/Billing & Support.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS CPE - Module 8 (Pricing & Support)/Billing & Support.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS CPE - Module 8 (Pricing & Support)/Billing & Support.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AWS CPE - Module 8 (Pricing & Support)/Billing & Support.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,16 +138,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "574bbadc795e9267",
+  "active": "7703226d7b4d10d6",
   "lastOpenFiles": [
-    "AWS CPE - Module 8 (Pricing & Support)/AWS Pricing Concepts.md",
+    "AWS CPE - MODULES.md",
+    "AWS CPE - Module 9 (Migration & Innovation)/Module 9 (Migration & Innovation).md",
+    "AWS CPE - Module 9 (Migration & Innovation)/AWS Snow Family & Innovation.md",
+    "AWS CPE - Module 9 (Migration & Innovation)/AWS CAF & Migration Strategies.md",
+    "images/Screenshot_2023-12-06_at_19.16.30.png",
+    "AWS CPE - Module 9 (Migration & Innovation)",
     "AWS CPE - Module 8 (Pricing & Support)/Billing & Support.md",
+    "AWS CPE - Module 8 (Pricing & Support)/AWS Pricing Concepts.md",
     "AWS CPE - Module 8 (Pricing & Support)/Module 8 (Pricing & Support).md",
     "AWS CPE - Module 6 (Security)/Module 6 (Security).md",
     "AWS CPE - Module 8 (Pricing & Support)",
     "AWS CPE - Module 7 (Monitoring & Analytics)/Module 7 - (Monitoring & Analytics).md",
-    "images/Screenshot_2023-12-06_at_19.16.30.png",
-    "AWS CPE - MODULES.md",
     "AWS CPE - Module 3 (Global Infrastructure & Reliability)/Module 3 (Global Infrastructure & Reliability).md",
     "AWS CPE - Module 7 (Monitoring & Analysis)/Module 7 (Monitoring & Analysis).md",
     "AWS CPE - Module 4 (Networking)/Module 4 (Networking).md",
@@ -176,9 +172,6 @@
     "AWS CPE - Module 6 (Security)",
     "AWS CPE - Module 2 (Compute in the Cloud)/Amazon EC2.md",
     "AWS CPE - Module 1 (Intro to AWS)/Module 1 (Intro to AWS).md",
-    "AWS CPE - Module 2 (Compute in the Cloud)/Module 2 (Compute in the Cloud).md",
-    "AWS CPE - Module 5 (Storage & Databases)/Amazon Storage Services (EBS & S3).md",
-    "AWS CPE - Module 5 (Storage & Databases)/Amazon DMS & Additional DB Services.md",
     "images/Screenshot_2023-12-05_at_13.47.57.png",
     "AWS CPE - Module 5 (Storage & Databases)",
     "images/Screenshot_2023-12-04_at_17.23.18.png",
@@ -193,7 +186,6 @@
     "AWS CPE - Module 3 (Global Infrastructure & Reliability)",
     "AWS CPE - Module 1 (Intro to AWS)",
     "AWS CPE - Module 2 (Compute in the Cloud)",
-    "AWS-CPE",
-    "images"
+    "AWS-CPE"
   ]
 }
