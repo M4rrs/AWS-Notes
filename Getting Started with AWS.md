@@ -19,7 +19,7 @@
 - No large investments on hardware needed, you can access as many resources as you need, and only pay for what is used.
 
 - **"Undifferentiated heavy lifting of IT"**. Common, repetitive, time-consuming tasks are what AWS wants to help with.
-## Advantages of Cloud Computing
+## Advantages of AWS
 
 | ***Pay-as-you-go*** | Pay only when you use computing resources, and how much is used. |
 |----|----|
@@ -28,13 +28,6 @@
 | ***Cost Savings*** | Companies can focus more on business projects instead of maintaining data centers. More focus for customers instead of hardware.|
 | ***Go global quickly*** | Deploy apps globally quickly and with lower latency. Better customer experience at minimal cost.|
 | ***Benefit from massive economies of scale*** | **Larger scale == lower prices.** AWS aggregates usage from hundreds to thousands of customers leading to higher economies of scale. |
-
-## Benefits of AWS Cloud
-- **Benefits:** (unsure if all necessary)
-	- **AWS global infrastructure:** Ability to provision resources in Region(s) that best serve your specific use case. Resources can simply be deleted once done.
-	- **Broad Service Portfolio:** AWS provides an extensive array of services (over 200)
-	- **Mature Ecosystem:** One of the oldest providers, well-established with a vast marketplace and wide range of tools and third party integrations
-	- **Customization & Flexibility:** A high level of customization & flexibility in configuring their services, allowing for fine-grained control over infrastructure.
 
 -----------
 ## Cloud Computing Service Models
