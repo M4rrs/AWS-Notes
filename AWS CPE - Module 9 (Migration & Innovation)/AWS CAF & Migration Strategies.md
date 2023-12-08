@@ -1,4 +1,4 @@
-#AWS-piscine #AWS-Cloud-Practitioner-Essentials 
+#AWS-piscine #AWS-Cloud-Practitioner-Essentials #Module-9
 
 - [[#Core Perspectives of the AWS CAF]]
 - [[#Migration Strategies]]

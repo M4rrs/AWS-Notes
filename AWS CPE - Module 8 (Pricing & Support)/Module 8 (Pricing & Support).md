@@ -1,3 +1,5 @@
+#AWS-piscine #AWS-Cloud-Practitioner-Essentials #Module-8
+
 [[AWS Pricing Concepts]]
 - Free Tier Options
 - Pricing Concepts

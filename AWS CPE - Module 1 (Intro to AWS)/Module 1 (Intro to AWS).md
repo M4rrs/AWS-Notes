@@ -1,5 +1,6 @@
-#AWS-piscine #AWS-Cloud-Practitioner-Essentials
+#AWS-piscine #AWS-Cloud-Practitioner-Essentials #Module-1
 ## AWS Well-Architected Framework
+[[Module 10 (The Cloud Journey)|Expanded in Module 10]]
 
 | **Operational Excellence** | Run and monitor systems, provide most business value. |
 |--|--|

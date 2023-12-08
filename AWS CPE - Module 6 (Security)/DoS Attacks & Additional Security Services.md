@@ -1,4 +1,4 @@
-#AWS-piscine #AWS-Cloud-Practitioner-Essentials 
+#AWS-piscine #AWS-Cloud-Practitioner-Essentials #Module-6
 
 - [[#AWS Shield]]
 - Additional Security Services

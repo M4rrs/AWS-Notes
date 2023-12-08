@@ -1,4 +1,4 @@
-#AWS-piscine #AWS-Cloud-Practitioner-Essentials
+#AWS-piscine #AWS-Cloud-Practitioner-Essentials #Module-2
 
 - [[#Elastic Load Balancing (ELB)]]
 - [[#Monolithic Applications & Microservices]]

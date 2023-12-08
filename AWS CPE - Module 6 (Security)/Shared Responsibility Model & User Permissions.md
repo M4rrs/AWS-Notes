@@ -1,4 +1,4 @@
-#AWS-piscine #AWS-Cloud-Practitioner-Essentials 
+#AWS-piscine #AWS-Cloud-Practitioner-Essentials #Module-6
 
 - [[#AWS Shared Responsibility Model (Expanded)]]
 - [[#AWS Identity and Access Management (IAM)]]

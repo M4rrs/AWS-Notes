@@ -1,4 +1,4 @@
-#AWS-piscine #AWS-Cloud-Practitioner-Essentials 
+#AWS-piscine #AWS-Cloud-Practitioner-Essentials #Module-6
 
 [[Shared Responsibility Model & User Permissions]]
 - AWS Shared Responsibility Model (Expanded from Getting Started with AWS)

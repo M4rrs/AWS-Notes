@@ -1,4 +1,4 @@
-#AWS-piscine #AWS-Cloud-Practitioner-Essentials 
+#AWS-piscine #AWS-Cloud-Practitioner-Essentials #Module-8
 
 - [[#Consolidated Billing]]
 - [[#AWS Budgets]]

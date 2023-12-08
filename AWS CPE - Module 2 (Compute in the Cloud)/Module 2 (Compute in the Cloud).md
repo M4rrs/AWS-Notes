@@ -1,4 +1,4 @@
-#AWS-piscine #AWS-Cloud-Practitioner-Essentials 
+#AWS-piscine #AWS-Cloud-Practitioner-Essentials #Module-2
 
 [[Amazon EC2]]
 - Amazon Elastic Compute Cloud

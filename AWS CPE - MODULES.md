@@ -16,3 +16,5 @@
 [[Module 8 (Pricing & Support)]]
 ## Module 9
 [[Module 9 (Migration & Innovation)]]
+## Module 10
+[[Module 10 (The Cloud Journey)]]
