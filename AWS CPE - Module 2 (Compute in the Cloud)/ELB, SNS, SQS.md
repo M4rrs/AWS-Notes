@@ -4,7 +4,7 @@
 - [[#Monolithic Applications & Microservices]]
 - **Additional Compute Services**:
 	- [[#AWS Lambda]]
-	- [[#Containerized Applications]]
+	-[[#Containerized Applications]]
 
 --------------
 ## Elastic Load Balancing (ELB)

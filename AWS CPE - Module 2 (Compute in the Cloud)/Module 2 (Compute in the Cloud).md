@@ -1,7 +1,7 @@
 #AWS-piscine #AWS-Cloud-Practitioner-Essentials #Module-2
 
 [[Amazon EC2]]
-- Amazon Elastic Compute Cloud
+- Amazon Elastic Compute Cloud (EC2)
 
 [[ELB, SNS, SQS]]
 - Amazon Elastic Load Balancer (ELB)

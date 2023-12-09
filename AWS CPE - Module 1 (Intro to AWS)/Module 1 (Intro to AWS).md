@@ -16,7 +16,7 @@
 - Create new applications.
 
 - Apps built on low-level infrastructure requires IT staff to manage.
-- Aps built using higher-level infrastructure; reduces management, architecting, & scaling requirements of core infrastructure.
+- Apps built using higher-level infrastructure; reduces management, architecting, & scaling requirements of core infrastructure.
 - e.g. A fully cloud based application consisting of virtual servers, dbs and networking components.
 
 ##### ==On-Premises Deployment
@@ -31,7 +31,7 @@
 - Integrate cloud-based resources with legacy IT applications.
 
 - Use situations:
-	-  Legacy applications are better maintained on-premises.
+	- Legacy applications are better maintained on-premises.
 	- Government regulations require your business to keep records on premises.
 
 
