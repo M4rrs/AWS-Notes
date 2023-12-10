@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f65234f7084d71dc",
+        "id": "d096858a983a09bc",
         "type": "tabs",
         "children": [
           {
-            "id": "ffcf7ae89b1e52af",
+            "id": "bfa4922b7a9d4f66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS CPE - Module 3 (Global Infrastructure & Reliability)/Module 3 (Global Infrastructure & Reliability).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8591fa4eda70ee95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Getting Started with AWS.md",
+                "file": "AWS Cloud Practitioner Essentials.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS CPE - Module 3 (Global Infrastructure & Reliability)/Module 3 (Global Infrastructure & Reliability).md",
+                "file": "AWS Cloud Practitioner Essentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS CPE - Module 3 (Global Infrastructure & Reliability)/Module 3 (Global Infrastructure & Reliability).md",
+                "file": "AWS Cloud Practitioner Essentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS CPE - Module 3 (Global Infrastructure & Reliability)/Module 3 (Global Infrastructure & Reliability).md"
+                "file": "AWS Cloud Practitioner Essentials.md"
               }
             }
           }
@@ -159,35 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffcf7ae89b1e52af",
+  "active": "bfa4922b7a9d4f66",
   "lastOpenFiles": [
     "AWS CPE - Module 6 (Security)/DoS Attacks & Additional Security Services.md",
-    "AWS CPE - Module 9 (Migration & Innovation)/AWS Snow Family & Innovation.md",
-    "AWS CPE - Module 7 (Monitoring & Analytics)/Module 7 - (Monitoring & Analytics).md",
     "AWS CPE - Module 6 (Security)/AWS Organizations & Compliance.md",
-    "Getting Started with AWS.md",
+    "AWS Cloud Practitioner Essentials.md",
+    "AWS CPE - Module 6 (Security)/Module 6 (Security).md",
+    "AWS CPE - Module 6 (Security)/Shared Responsibility Model & User Permissions.md",
+    "AWS CPE - Module 5 (Storage & Databases)/Amazon DMS & Additional DB Services.md",
+    "AWS CPE - Module 5 (Storage & Databases)/EFS, RDS, DynamoDB, Redshift.md",
+    "AWS CPE - Module 5 (Storage & Databases)/Amazon Storage Services (EBS & S3).md",
+    "AWS CPE - Module 5 (Storage & Databases)/Module 5 (Storage & Databases).md",
+    "AWS CPE - Module 4 (Networking)/Global Networking.md",
+    "AWS CPE - Module 4 (Networking)/Module 4 (Networking).md",
+    "AWS CPE - Module 4 (Networking)/Subnets & Network Access Controls.md",
+    "AWS CPE - Module 4 (Networking)/Connectivity to AWS.md",
     "AWS CPE - Module 3 (Global Infrastructure & Reliability)/Module 3 (Global Infrastructure & Reliability).md",
     "AWS CPE - Module 2 (Compute in the Cloud)/ELB, SNS, SQS.md",
     "AWS CPE - Module 2 (Compute in the Cloud)/Amazon EC2.md",
-    "AWS CPE - Module 5 (Storage & Databases)/Amazon DMS & Additional DB Services.md",
-    "AWS CPE - Module 5 (Storage & Databases)/EFS, RDS, DynamoDB, Redshift.md",
-    "AWS CPE - Module 8 (Pricing & Support)/AWS Pricing Concepts.md",
+    "AWS CPE - Module 2 (Compute in the Cloud)/Module 2 (Compute in the Cloud).md",
     "AWS CPE - Module 1 (Intro to AWS)/Module 1 (Intro to AWS).md",
     "AWS CPE - Module 10 (The Cloud Journey)/Module 10 (The Cloud Journey).md",
-    "AWS CPE - Module 4 (Networking)/Global Networking.md",
-    "AWS CPE - Module 2 (Compute in the Cloud)/Module 2 (Compute in the Cloud).md",
-    "AWS CPE - Module 5 (Storage & Databases)/Amazon Storage Services (EBS & S3).md",
+    "AWS CPE - Module 9 (Migration & Innovation)/AWS Snow Family & Innovation.md",
+    "AWS CPE - Module 7 (Monitoring & Analytics)/Module 7 - (Monitoring & Analytics).md",
+    "Getting Started with AWS.md",
+    "AWS CPE - Module 8 (Pricing & Support)/AWS Pricing Concepts.md",
     "AWS CPE - Module 9 (Migration & Innovation)/AWS CAF & Migration Strategies.md",
-    "AWS CPE - MODULES.md",
     "AWS CPE - Module 10 (The Cloud Journey)",
     "AWS CPE - Module 9 (Migration & Innovation)/Module 9 (Migration & Innovation).md",
     "AWS CPE - Module 8 (Pricing & Support)/Billing & Support.md",
-    "AWS CPE - Module 8 (Pricing & Support)/Module 8 (Pricing & Support).md",
-    "AWS CPE - Module 6 (Security)/Shared Responsibility Model & User Permissions.md",
-    "AWS CPE - Module 6 (Security)/Module 6 (Security).md",
-    "AWS CPE - Module 5 (Storage & Databases)/Module 5 (Storage & Databases).md",
-    "AWS CPE - Module 4 (Networking)/Module 4 (Networking).md",
-    "AWS CPE - Module 4 (Networking)/Connectivity to AWS.md",
     "images/Screenshot_2023-12-06_at_19.16.30.png",
     "AWS CPE - Module 9 (Migration & Innovation)",
     "AWS CPE - Module 8 (Pricing & Support)",

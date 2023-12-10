@@ -7,6 +7,8 @@
 [[Module 1 (Intro to AWS)#AWS Well-Architected Framework||Expanded from Module 1]]
 - Understand how to design and operate reliable, secure, efficient and cost-effective systems.
 ##### ==Operational Excellence
+- Limit human error.
+- Automate if possible.
 - Design principles include:
 	- Performing operations as code.
 	- Annotating documentation.
@@ -18,6 +20,7 @@
 	- Apply security at all layers.
 	- Protect data in transit and rest.
 ##### ==Reliability
+- Consistently and correctly perform operations.
 - Ability of the system to:
 	- Recover from infrastructure or service disruptions.
 	- Dynamically acquire computing resources to meet demand.

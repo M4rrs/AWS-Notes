@@ -104,6 +104,8 @@
 - Suitable if running EC2 in different Availability Zones, or different EC2 types.
 - Less discount rip.
 
+- More upfront payment == more savings.
+
 ##### ==EC2 Instance Savings Plans
 - Provides discount when you make an hourly spend commitment to an instance family or Region for a 1-year or 3-year term.
 - Up to 72% reduced rates.
