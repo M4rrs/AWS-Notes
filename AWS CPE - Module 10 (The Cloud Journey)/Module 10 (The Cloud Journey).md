@@ -46,3 +46,13 @@
 -----
 ## Benefits of AWS
 [[Getting Started with AWS#Advantages of AWS|Explained in Getting Started with AWS]]
+###### Scalability
+- **Vertical Scaling:** Scaling up. Upgrading current server to have more resources. 
+- **Horizontal Scaling:** Scaling out. Adding separate servers in addition to current servers.
+###### Elasticity
+- Ability to automatically increase or decrease resources based on tracked metrics.
+###### High Durability
+- Ability to recover from disaster with minimal loss.
+- Strategies:
+	- **Recovery Time Objective (RTO):** Maximum downtime that can be afforded without substantial loss.
+	- **Recovery Point Objective (RPO):** Maximum amount of data that can be lost.

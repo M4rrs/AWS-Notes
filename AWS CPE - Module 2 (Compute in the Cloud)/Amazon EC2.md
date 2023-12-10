@@ -1,6 +1,7 @@
 #AWS-piscine #AWS-Cloud-Practitioner-Essentials#Module-2
 
 - [[#Amazon Elastic Compute Cloud (EC2)]]
+- [[#Amazon Machine Images (AMIs)]]
 - [[#EC2 Instance Types]]
 - [[#EC2 Tenancy]]
 - [[#EC2 Pricing]]
@@ -21,6 +22,16 @@
 |--|--|
 | ***Flexibility & Control*** | Choice of multiple instance types, OS, software packages, + configuration of memory, CPU, storage and partition size. |
 | ***Elastic Scale Computing*** | Resizable instances (vertically scaling). |
+
+-------
+## Amazon Machine Images (AMIs)
+
+- Template for creating EC2 Instances.
+- Configure components e.g. :
+	- Amount of CPUs
+	- Amount of memory (RAM)
+		- Amount of network bandwidth.
+		- OS
 
 ------------------
 ## EC2 Instance Types
@@ -77,6 +88,7 @@
 	- Developing, testing, and running apps with unpredictable usage patterns.
 
 ##### ==Reserved Instances
+- Best for applications with steady, predictable usage.
 - Billing discount applied to On-Demand Instances:
 	- **Standard Reserved Instances**
 	- **Convertible Reserved Instances**

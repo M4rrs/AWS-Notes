@@ -21,7 +21,7 @@
 - **"Undifferentiated heavy lifting of IT"**. Common, repetitive, time-consuming tasks are what AWS wants to help with.
 ## Advantages of AWS
 
-| ***Pay-as-you-go*** | Pay only when you use computing resources, and how much is used. |
+| ***Pay-as-you-go*** | Pay only when you use computing resources, and how much is used. Trade CapEx for OpEx|
 |----|----|
 | ***Scalability*** | Access as much or as little capacity as needed, and scale as required.|
 | ***Increase speed & agility*** | Instantly available resources. Increased agility because time and cost to experiment and develop is significantly lower.
@@ -32,7 +32,6 @@
 -----------
 ## Cloud Computing Service Models
 * Each service provides different levels of abstraction, control, flexibility, & management.
-
 ##### IaaS (Infrastructure as a Service)
 - Mainly to do with hardware.
 - Typically provides access to networking features, computers (virtual or dedicated hardware) & data storage space.
@@ -44,6 +43,7 @@
 ##### SaaS (Software as a Service)
 - Provides you with completed product that is run & managed by service provider.
 - No need to worry about how its maintained or the underlying infrastructure; only about how you will **use** that software.
+
 ----------
 ## AWS Global Infrastructure
 - AWS cloud infrastructure is built around AWS Regions and Availability Zones.
@@ -69,6 +69,9 @@
 ##### Software Development Kits (SDK)
 - Handy when you want to integrate application source code with AWS services.
 - E.g. Using **Python SDK** to write code to store files in **Amazon Simple Storage Services (Amazon S3)** instead of on your local hard drive.
+##### Access Keys
+- Enables access to AWS resources outside the console.
+- Can be deactivated and regenerated.
 
 --------
 ## Infrastructure as Code (IaC)
@@ -88,7 +91,6 @@
 ![[Screenshot_2023-12-01_at_14.56.06.png]]
 ---------------------
 ## AWS Shared Responsibility Model
-
 [[Shared Responsibility Model & User Permissions|Expanded in Module 6]]
 ###### AWS
 - Hardware/Global infrastructure
